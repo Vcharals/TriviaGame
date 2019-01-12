@@ -1,0 +1,59 @@
+body, html {
+    height: 100%;
+    background: url("http://showerheadsnow.com/wp-content/uploads/2018/08/blue-stage-curtains-for-popular-curtain-backdrop-furniture-wood-for-different-blue-stage-curtains-top-theater-theatre-play-by-curtain-clipart-about-new-works.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+header{
+    margin-bottom: 20px;
+}
+
+.btn-primary,.reset{
+	background-color: blue;
+	color: white;
+	font-family: 'Sigmar One', sans-serif;
+	font-size: 30px;
+	padding: 20px;
+	margin-top: 100px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: blue;
+}
+
+.container{
+	margin-top: 50px;
+	text-align: center;
+	height: 100%;
+    width: 700px;
+    color:white;
+}
+
+h2, #message, #finalMessage{
+    font-family: Sigmar One;
+    color:white;
+}
+
+.thisChoice:hover{
+	background-color: blue;
+	color: white;
+	padding: 10px;
+}
+
+#gif{
+	margin: 30px;
+}
+
+@media screen and (max-width:640px){
+	.container{
+		width: 500px;
+		margin-top: 200px;
+		size: 200%;
+	}	
+}
