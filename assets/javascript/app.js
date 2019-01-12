@@ -23,40 +23,40 @@ var triviaQuestions = [{
 	answerList: ["Jessica", "Gunther", "Lady Rainicorn", "The Ice Princess"],
 	answer: 2
 },{
-	question: "Which film won Pixar's first Academy Award for Best Animated Feature?",
-	answerList: ["Toy Story", "Finding Nemo", "Up", "Wall-E"],
-	answer: 1
+	question: "Who else lives with Finn and Jake?",
+	answerList: ["Thomas", "Peppermint Patty", "Ice King", "B-MO"],
+	answer: 3
 },{
-	question: "Who directed Pixar's first three feature films?",
-	answerList: ["Peter Docter", "Brad Bird", "John Lasseter", "Peter Sohn"],
+	question: "Who is the most spoiled princess?",
+	answerList: ["Princess Bubblegum", "Flame Princess", "Lumpy Space Princess", "Debra"],
 	answer: 2
 },{
-	question: "Who voiced Sadness in 'Inside Out'?",
-	answerList: ["Amy Poehler", "Phyllis Smith", "Mindy Kaling", "Phyllis Vance"],
-	answer: 1
-},{
-	question: "Billy Crystal voices Mike Wazowski in 'Monster, Inc.' but what role did he originally turn down from Pixar?",
-	answerList: ["Hopper", "Woody", "Marlin", "Buzz Lightyear"],
-	answer: 3
-},{
-	question: "The voice of WALL-E, Ben Burtt, also voiced what other famous robot?",
-	answerList: ["R2-D2", "Alpha 5", "C-3PO", "Astro Boy"],
+	question: "Who do Finn and Jake always have to rescue the princesses from?",
+	answerList: ["The Ice King", "Handsy Henry", "The Princess Burglar", "The Woodland Monster"],
 	answer: 0
 },{
-	question: "Brad Bird directed which animated film prior to taking on 'The Incredibles'?",
-	answerList: ["The Brave Little Toaster", "The Iron Giant", "Tarzan", "The Prince of Egypt"],
+	question: "Who is The Ice King's go-to penguin?",
+	answerList: ["Jebediah", "Gunther", "Marlin", "Socrates"],
 	answer: 1
 },{
-	question: "Pixar was originally a division of which studio?",
-	answerList: ["Dreamworks", "Industrial Light & Magic", "Disney", "Lucasfilm"],
-	answer: 3
+	question: "Whats the name of the 1000 year old Vampire that Finn befriends?",
+	answerList: ["Vladimir", "Drac", "Marceline", "Jimminy"],
+	answer: 2
 },{
-	question: "What is the name of the famour explorer from 'Up' that Carl looked up to as a boy?",
-	answerList: ["Charles F. Muntz", "Chuck M. James", "Charlie Rose", "Carl Carlton"],
+	question: "What is the name of the other Princess that Finn falls in love with later on?",
+	answerList: ["Flame Princess", "Oceana Princess", "Lumpy Space Princess", "Princess Bubble Gum"],
 	answer: 0
 },{
-	question: "'A Bug's Life' was loosely based on what other film?",
-	answerList: ["I Live in Fear", "Rashomon", "Seven Samurai", "Magneficent Seven"],
+	question: "Who is Heir to the Candy Kingdom?",
+	answerList: ["Samantha", "Prince of Candydrop Lane", "Earl of Lemongrab", "Jester of Gingerbreadville"],
+	answer: 2
+},{
+	question: "Who plays Finn in the alternate timeline?",
+	answerList: ["Finina", "Cake", "Firtha", "Fiona"],
+	answer: 3
+},{
+	question: "What year did the last episode of Finn and Jake Air?",
+	answerList: ["2015", "2016", "2017", "2018"],
 	answer: 2
 }];
 
